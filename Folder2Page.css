@@ -1,0 +1,12 @@
+/* Example Style sheet to control the look of the table created by Folder2Page */
+
+.Folder2PageTab {
+	width:100%;
+	border:2px solid black;
+}
+
+.Folder2PageData {
+	border:2px solid black;
+	text-align:center;
+}
+
